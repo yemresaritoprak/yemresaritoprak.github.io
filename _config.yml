@@ -150,6 +150,7 @@ paginate: 10
 
 # The base URL of your site
 baseurl: ""
+favicon: /assets/favicon.ico
 
 # ------------ The following options are not recommended to be modified ------------------
 
